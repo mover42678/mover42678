@@ -1,7 +1,7 @@
-TemaMover## Hi there 👋
+TemaMover/ Hi there 👋
 
 <!--
-**mover42678/mover42678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mover42678/TemaMover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
